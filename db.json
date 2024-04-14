@@ -1,0 +1,131 @@
+{
+  "phones": [
+    {
+      "name": "Samsung galaxy A34",
+      "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a34-6.jpg",
+      "price": 599.99,
+      "description": "battery:5000MAH ,Dual sim"
+      
+    },
+    {
+      "name": "Samsung Galaxy A55",
+      "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a55-1.jpg",
+      "price": 799.99,
+      "description": "Phone C description..."
+    },
+    {
+      "name": "Samsung S21 Ultra",
+      "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s23-ultra-5g-1.jpg",
+      "price": 799.99,
+      "description": ""
+    },
+    {
+      "name": "Samsung Galaxy F34",
+      "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-f34-1.jpg",
+      "price": 799.99,
+      "description": "Phone C description..."
+    },
+    {
+      "name": "Xiaomi Redmi 13R",
+      "image": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-13r-5g-1.jpg",
+      "price": 799.99,
+      "description": "Phone C description..."
+    },
+    {
+      "name": "Xiaomi Redmi 13 Pro 4G",
+      "image": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-13-pro-4g-2.jpg",
+      "price": 799.99,
+      "description": "Phone C description..."
+    },
+    {
+      "name": "Redmi K70",
+      "image": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-k70-1.jpg",
+      "price": 799.99,
+      "description": "Phone C description..."
+    },
+    {
+      "name": "Redmi A3",
+      "image": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-a3-1.jpg",
+      "price": 799.99,
+      "description": "Phone C description..."
+    },
+    {
+      "name": "Iphone 15 Pro Max",
+      "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-15-pro-max-1.jpg",
+      "price": 799.99,
+      "description": "Phone C description..."
+    },
+    {
+      "name": "Iphone 15 Pro",
+      "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-15-pro-1.jpg",
+      "price": 799.99,
+      "description": "Phone C description..."
+    },
+    {
+      "name": "Iphone 13 pro",
+      "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-pro-01.jpg",
+      "price": 799.99,
+      "description": "Phone C description..."
+    },
+    {
+      "name": "Iphone 12 pro max",
+      "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-12-pro-max-1.jpg",
+      "price": 799.99,
+      "description": "Phone C description..."
+    },
+    {
+      "name": "Oppo Reno 10",
+      "image": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno11-international-2.jpg",
+      "price": 699.99,
+      "description": "Phone B description..."
+    },
+    {
+      "name": "OppoA2 Pro",
+      "image": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a2-pro-1.jpg",
+      "price": 799.99,
+      "description": "Phone C description..."
+    },
+    {
+      "name": "Oppo A79",
+      "image": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a79-5g-1.jpg",
+      "price": 799.99,
+      "description": "Phone C description..."
+    },
+    {
+      "name": "Oppo Reno 11F",
+      "image": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno11-f-5g-0.jpg",
+      "price": 799.99,
+      "description": "Phone C description..."
+    },
+    {
+      "name": "Huawei Nova 12S",
+      "image": "https://fdn2.gsmarena.com/vv/pics/huawei/huawei-nova-12s-1.jpg",
+      "price": 799.99,
+      "description": "Phone C description..."
+    },
+    {
+      "name": "Huawei Nova Y72",
+      "image": "https://fdn2.gsmarena.com/vv/pics/huawei/huawei-enjoy-70-1.jpg",
+      "price": 799.99,
+      "description": "Phone C description..."
+    },
+    {
+      "name": "Huawei Nova 12i",
+      "image": "https://fdn2.gsmarena.com/vv/pics/huawei/huawei-nova-12i-1.jpg",
+      "price": 799.99,
+      "description": "Phone C description..."
+    },
+    {
+      "name": "Huawei Y9s",
+      "image": "https://fdn2.gsmarena.com/vv/pics/huawei/huawei-y9s-3.jpg",
+      "price": 799.99,
+      "description": "Phone C description..."
+    },
+    {
+      "name": "Oppo A98",
+      "image": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a98-5g-1.jpg",
+      "price": 799.99,
+      "description": "Phone C description..."
+    }
+  ]
+}
